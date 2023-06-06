@@ -14,3 +14,4 @@ pip install pyodbc
 pip install ttkthemes
 ```
 
+For testing purposes, Sign in as an admin using Username: admin, Password: admin
